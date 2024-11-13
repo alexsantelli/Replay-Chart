@@ -1,4 +1,4 @@
-# Trading View Replay Chart
+# Replay Chart
 
 A powerful, interactive replay charting system built with TypeScript, React, and Vite, designed to visualize historical tick data using TradingView’s charting library. This application allows users to simulate trading actions such as buying and selling while calculating profit and loss (PnL) in real-time. The example data uses tick data for the Forex pair XAUUSD.
 
@@ -30,8 +30,8 @@ A powerful, interactive replay charting system built with TypeScript, React, and
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/trading-view-replay.git
-   cd trading-view-replay
+   git clone https://github.com/alexsantelli/Replay-Chart.git
+   cd Replay-Chart
    ```
 
 2. **Add TradingView’s Charting Library**
